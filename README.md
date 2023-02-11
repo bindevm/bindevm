@@ -1,6 +1,12 @@
-# BindEVM
+# BindEVM (WIP)
 
 Code-first EVM contract entity mapper
+
+## Planned Features
+- Contract-first mapper or generated from Typechain
+- ERC Interface blocks
+- Query interface to The Graph
+
 
 ## Latest version
 
